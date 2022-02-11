@@ -63,7 +63,7 @@
     "cross-env": "^5.1.4",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.7",
     "semantic-release": "^12.4.1",
     "travis-deploy-once": "^4.4.1"
